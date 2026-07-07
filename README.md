@@ -49,17 +49,7 @@ Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
 Hi, I'm **Gyan Aryan**.
 
-I am a passionate Full Stack Developer who enjoys building scalable web applications and exploring Artificial Intelligence.
-
-Currently exploring:
-
-- 🚀 Full Stack Development
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 🎨 UI/UX Design
-- ⚡ Open Source Contributions
-
-
+I am a passionate Developer who enjoys building scalable web applications.
 I love turning ideas into real-world projects and continuously improving my engineering skills.
 
 
@@ -82,104 +72,12 @@ I love turning ideas into real-world projects and continuously improving my engi
 
 </p>
 
-
----
-
-# 🚀 Featured Projects
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">
-Portfolio Website
-</h3>
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GyanAryan15&repo=AkshatGuptaPortfolio"/>
-</a>
-
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="center">
-Component Library
-</h3>
-
-<p align="center">
-
-<a href="YOUR_REPO_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GyanAryan15&repo=component-library"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">
-Speech Emotion Recognition
-</h3>
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GyanAryan15&repo=speech-emotion-recognition"/>
-</a>
-
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="center">
-AI Projects
-</h3>
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GyanAryan15&repo=AI-projects"/>
-</a>
-
-</p>
-
-</td>
-
-
-</tr>
-
-</table>
-
-
 ---
 
 # 📊 GitHub Stats
 
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=GyanAryan15&show_icons=true&theme=tokyonight"
-/>
-
 <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=GyanAryan15&theme=tokyonight"
 />
@@ -212,19 +110,3 @@ src="https://raw.githubusercontent.com/GyanAryan15/GyanAryan15/output/github-con
 
 
 ---
-
-# 📫 Connect With Me
-
-
-<p align="center">
-
-Let's build something amazing together 🚀
-
-</p>
-
-
-<p align="center">
-
-⭐ From <b>Gyan Aryan</b>
-
-</p>
