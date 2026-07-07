@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     src="https://www.cartridgesave.co.uk/media/woodblock.jpg"
-    width="100%"
+    width="90%"
     height="300px"
     style="object-fit: cover; border-radius: 10px;"
   />
@@ -10,7 +10,7 @@
 
 
 
-## Stats
+## github stats :)
 
 <p align="center">
   
