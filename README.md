@@ -8,21 +8,9 @@
   />
 </p>
 
----
 
-## 💻 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,django,python,cpp" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,linux,figma,vscode,postman" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GyanAryan15&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -33,17 +21,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanAryan15&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🏆 Top Languages
+<!--## 🏆 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanAryan15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
----
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GyanAryan15/GyanAryan15/output/github-contribution-grid-snake.svg" />
@@ -68,4 +53,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GyanAryan15&color=blue&style=flat" alt="Profile views" />
-</p>
+</p>-->
