@@ -10,12 +10,14 @@
 
 
 
-## github stats :)
+## github stats..
 
 <p align="center">
   
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GyanAryan15&theme=tokyonight&hide_border=true" />
 </p>
+---
+## contribution graph..
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanAryan15&theme=tokyo-night&hide_border=true" />
