@@ -8,43 +8,7 @@
   />
 </p>
 
-
-<!-- Typing Header -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey!+I+am+Gyan+Aryan+👋;Full+Stack+Developer;AI%2FML+Explorer;Building+Projects+that+Matter"/>
-</p>
-
-
-<h3 align="center">
-Full Stack Developer | AI/ML Enthusiast | Problem Solver
-</h3>
-
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/GyanAryan15">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</p>
-
-
----
-
-# 👋 About Me
+# About Me
 
 
 Hi, I'm **Gyan Aryan**.
@@ -53,7 +17,6 @@ I am a passionate Developer who enjoys building scalable web applications.
 I love turning ideas into real-world projects and continuously improving my engineering skills.
 
 
----
 
 # 💻 Technologies & Tools
 
