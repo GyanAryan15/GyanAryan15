@@ -4,7 +4,7 @@
   <img 
     src="https://www.cartridgesave.co.uk/media/woodblock.jpg"
     width="100%"
-    height = "200px"
+    height = "400px"
   />
 </p>
 
