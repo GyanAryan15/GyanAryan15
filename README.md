@@ -15,12 +15,12 @@
 
 <p align="center">
   
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GyanAryan15&theme=midnight-purple&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GyanAryan15&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanAryan15&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanAryan15&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 <!--## 🏆 Top Languages
