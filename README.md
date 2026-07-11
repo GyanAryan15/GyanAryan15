@@ -15,8 +15,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GyanAryan15&theme=github-dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanAryan15&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" />
-</p>
+ </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GyanAryan15&theme=github-dark&hide_border=true" />
